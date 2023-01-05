@@ -1,4 +1,4 @@
-import * as THREE from  'three';
+import * as THREE from  './assets/three.module.js';
 import {initRenderer,
         onWindowResize,
         getFilename,
